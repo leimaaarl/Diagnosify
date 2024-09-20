@@ -1,2 +1,4 @@
 # Diagnosify
-Medical Image Diagnosis Web Application for Skin Cancer
+MultiClassification for Dog breeds
+
+--Currently can classify 5 breeds with 75+% accuracy
